@@ -117,6 +117,7 @@ This is the main function that orchestrates the entire merging process.
 ## Potential Improvements / Future Work
 
 *   **GUI:**  A graphical user interface would make the script more user-friendly.
+*   **Colab Support:**  A graphical user interface on free colab space.
 *   **More Sophisticated Hypernetwork:**  Experiment with different hypernetwork architectures (e.g., using attention mechanisms).
 *   **Different Blending Strategies:** Explore alternative blending techniques in the frequency domain.
 *   **Layer-Specific Parameters:** Allow for different `entanglement_strength` and `decoherence_factor` values for different layers of the model.
